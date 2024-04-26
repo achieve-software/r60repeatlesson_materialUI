@@ -7,7 +7,7 @@ const useStyles = makeStyles({
     border: 0,
     borderRadius: '1rem',
     color: 'red',
-    padding: '5px 30px',
+    padding: '15px 30px',
     '&:hover': {
       opacity: '0.5',
     },
